@@ -73,11 +73,21 @@ This is an explanation of regex components.
 
 ### The OR Operator
 
-- 
+- OR represents the opengroup orperator. 
 
 ### Flags
 
+- A flag property helps return a string made of the flags of the current regular expresison object. 
+
+
 ### Character Escapes
+
+- Literal character expression precedes with a backslash . Letters that represent common character classes such as \w for a word character and \s for a space.
+
+    - (here|there)
+    - (\w+)
+    - .+
+    - (said\asked)
 
 ## Author
 
@@ -85,4 +95,9 @@ This is an explanation of regex components.
 Jose Izquierdo 
 - Github
 
-- Portfolio 
+    https://github.com/Leftjose
+
+
+- Portfolio
+
+    https://leftjose.github.io/Web.dev.portfolio.3/
